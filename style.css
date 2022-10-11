@@ -3,3 +3,7 @@
     grid-template-columns: repeat(2, 400px);
     justify-content: center;
 }
+
+.filter {
+    filter: blur(8px);
+}
