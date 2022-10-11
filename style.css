@@ -5,5 +5,5 @@
 }
 
 .filter {
-    filter: blur(8px);
+    filter: brightness(1);
 }
