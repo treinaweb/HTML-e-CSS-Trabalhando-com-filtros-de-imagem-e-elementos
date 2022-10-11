@@ -1,0 +1,5 @@
+.section-filter {
+    display: grid;
+    grid-template-columns: repeat(2, 400px);
+    justify-content: center;
+}
